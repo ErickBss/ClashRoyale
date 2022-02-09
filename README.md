@@ -1,7 +1,7 @@
 # ClashRoyale
 A took a time to study Axios and Rest API.
  Both are really important for a correct integration with an API. Axios with the tools and Rest with the method.
-I have done a few others projects with APIs but this is the first time being RestFull, and I have some others great ideias to do with this, stick around and don't miss out.  
+I have done a few others projects with APIs but this is the first time being RestFul, and I have some others great ideias to do with this, stick around and don't miss out.  
 
 ### Tecnologies used: NextJS, NodeJS, Typescript, Axios, RestAPI, Styled-Components
 
