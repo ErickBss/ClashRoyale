@@ -79,7 +79,7 @@ export const BoxesArea = styled.section`
 `;
 
 export const Box = styled.div`
-  background: ${(props) => shade(0.3, props.theme.colors.box)};
+  background: ${(props) => shade(0, props.theme.colors.box)};
   display: flex;
 
   width: 268px;

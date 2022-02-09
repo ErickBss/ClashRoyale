@@ -2,16 +2,16 @@ export default {
   title: "dark",
 
   colors: {
-    background: "#0e0004",
-    contrast: "#0e0004",
+    background: "#000000",
+    contrast: "#000000",
     icon: "#F6F6F8",
-    box: "#F6F6F8",
-    primary: "#6b0f1a",
-    secondary: "#b91372",
-    tertiary: "#31081f",
+    box: "#1098f7",
+    primary: "#1098f7",
+    secondary: "#decccc",
+    tertiary: "#ffffff",
 
     text: "#FFFFFF",
     buttonText: "#FFFFFF",
-    title: "#6b0f1a",
+    title: "#1098f7",
   },
 };
